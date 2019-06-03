@@ -8,5 +8,7 @@ Plan:
 2. Basic info about dataset
 3. Work with missing data
 4. Univariate analysis
-5. 
+5. Beer styles
+6. Beers
+7. Breweries
 
