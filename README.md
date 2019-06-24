@@ -1,14 +1,9 @@
-Exploratory analysis of dataset from BeerAdvocate
+    In this project, I analyzed user's reviews from BeerAdvocate (https://data.world/socialmediadata/beeradvocate) to find the best beers to recommend. To make my recommendations, I'll try to find out:
+    1. Which brewery produces the strongest beers by ABV%?
+    2. Which of the factors (aroma, taste, appearance, palate) are most important in determining the overall quality of a beer?
+    3. What can we say about reviewers?
+    4. If you had to pick up only 3 beers to recommend using only this data, which would you pick?
+    
+    Using the data, I analazed factors that correlated with overall impression, and did some exploratory visualization and analysis. You can see the exploratory data analysis in the 'DataExploration.ipunb' notebook above.
 
-Dataset: https://data.world/socialmediadata/beeradvocate
-
-
-Plan:
-1. Import libraries and data
-2. Basic info about dataset
-3. Work with missing data
-4. Univariate analysis
-5. Beer styles
-6. Beers
-7. Breweries
 
