@@ -7,3 +7,7 @@
     Using the data, I analazed factors that correlated with overall impression, and did some exploratory visualization and analysis. You can see the exploratory data analysis in the 'DataExploration.ipunb' notebook above.
 
 
+
+
+
+In this project, I analyzed user's reviews from BeerAdvocate (https://data.world/socialmediadata/beeradvocate)
